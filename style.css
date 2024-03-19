@@ -1,4 +1,6 @@
-header{
-    background-color: #87A922;
-    color: antiquewhite;
-}
+.cabecalho{background-color:#384B58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    }
+    .cabecalho-lista-item{display: inline-block}
